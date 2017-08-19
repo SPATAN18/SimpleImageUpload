@@ -1,0 +1,5 @@
+This floder contains files for a simple web app that uploads images and it is using the firebase database combined with java script.
+Following are the features:
+- It can upload an image and send it to the email address provided.
+- It can list all the previous uploads.
+
